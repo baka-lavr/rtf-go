@@ -308,7 +308,7 @@ var destinations = map[string]bool{
 var specialCharacters = map[string]string{
 	"par":       "\n",
 	"cell":      "\n",
-	"row":       "~",
+	"row":       "\n\t\t\t",
 	"sect":      "\n\n",
 	"page":      "\n\n",
 	"line":      "\n",
