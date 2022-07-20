@@ -309,7 +309,7 @@ var specialCharacters = map[string]string{
 	"par":       "\n",
 	"cell":      "\n",
 	"row":       "~",
-	"sl280":     "#",
+	"brdrb":     "#",
 	"sect":      "\n\n",
 	"page":      "\n\n",
 	"line":      "\n",
