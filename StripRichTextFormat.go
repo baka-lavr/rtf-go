@@ -58,7 +58,7 @@ var destinations = map[string]bool{
 	"field":              true,
 	"file":               true,
 	"filetbl":            true,
-	"fldinst":            true,
+	//"fldinst":            true,
 	//"fldrslt":            true,
 	"fldtype":            true,
 	"fname":              true,
